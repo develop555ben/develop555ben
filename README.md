@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Hi, I'm Ben. I work as a software and game developer and interested in programming and game development. My hobby is virtual car racing. 
+
 <!--
 **develop555ben/develop555ben** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
